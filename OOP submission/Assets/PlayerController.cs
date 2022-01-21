@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController_Player_1 : MonoBehaviour
+public class PlayerController_Player : MonoBehaviour
 {
   public float Speed = 3.0f;
   public float HorizontalAxis;
