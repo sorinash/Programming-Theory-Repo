@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//INHERITANCE
+//Inherits from enemy class
 public class Fighter_Controller : Enemy
 {
   public virtual void Start()
